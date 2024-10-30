@@ -1,5 +1,6 @@
 {
-  "name": "cboden/ratchet",
+  "name": "bugover/ratchet",
+  "version": "1.0.0",
   "type": "library",
   "description": "PHP WebSocket library",
   "keywords": [
